@@ -1,0 +1,34 @@
+table, th, td,tr {
+  border: 1px solid black;
+  border-collapse: collapse;
+  width:50%;
+}
+th, td,tr {
+  padding: 5px;    
+}
+#a2
+{
+	background-color: lightpink;
+  color: black;
+  margin: 20px;
+  padding: 20px;
+}
+.a{
+	align-content: center;
+	text-align: center;
+	
+}
+.c{
+  font-size: large;
+	text-decoration: none;
+}
+#t1,#t2{
+  color: red;
+}
+
+#a1{
+	background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+}
